@@ -1,1 +1,1 @@
-FROM camunda/operate
+FROM camunda/tasklist
