@@ -1,1 +1,1 @@
-FROM camunda/tasklist
+FROM camunda/connectors-bundle
